@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Svelte.
 - 💞️ I’m looking to collaborate on financial analysis projects.
 - 📫 How to reach me ...
-- 😄 Pronouns: He/him/though fine with anything, really 
+- 😄 Pronouns: He/him/reasonably convincing human person 
 - ⚡ Fun fact: Worked with vector/NoSQL databases before they were known as such.
 
 <!---
